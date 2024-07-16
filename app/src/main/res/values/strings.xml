@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Color</string>
+    <string name="textboxtop">About The App</string>
+    <string name="textboxleft">Text\nBox\nLeft</string>
+    <string name="textview1">TextBox 1</string>
+    <string name="textview2">TextBox 2</string>
+    <string name="textview3">TextBox 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_details">Welcome to ColorVision, a vibrant and interactive demo application created by Rachit Singh. ColorVision explores the fascinating world of colors, providing users with an engaging platform to learn, experiment, and discover the endless possibilities that colors offer. ColorVision is designed to inspire creativity and enhance your understanding of color theory. Dive into a colorful journey with us and see the world in a whole new light!</string>
+    <string name="about_heading">About</string>
+</resources>
